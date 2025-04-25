@@ -1,20 +1,19 @@
 # Overview
 
-This is a happy program in which we help our computers greet the world by printing the words
-"Hello World" onto the terminal. This program was made to help me increase my skills as a Software Engineer
-so I can better understand my work by helping others understand the work as well.
+This is a base program written for the purpose for the creator to learn more about uploading files to GitHub.
+This is a very basic Hello World program that is written in python. It prints the worlds Hello World to the screen.
 
-This program was created as a base tutorial for people learning how to code python for the first.
+This program also describes the process of creating a hello world program.
 
 
 [Software Demo Video](https://youtu.be/BzYIwGC_Rgo)
 
 # Development Environment
 
-I used VS Code for writing and creating my code. VS code is short for Visual Studio.
-I also used GitHub to upload my code to be on the internet and share it with others.
+Visual Studio Code was used for writing and creating the code.
+GitHub was used to upload the code to be on the internet.
 
-I used Python Language to write my code as well as I used Mark Down for the ReadMe document.
+Python Language was used to write this code. Mark Down was used for the ReadMe document.
 
 # Useful Websites
 
